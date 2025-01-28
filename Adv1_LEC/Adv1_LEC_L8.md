@@ -13,7 +13,7 @@
 8. How long does it take the average computer to crack the password “123456789”?
 9. What is the number of times that the word Loop gets repeated in the HTML for the loop website?
 10. What bus gets you the quickest to the Loop Campus from your home?
-11. Write your name in binary using a piece of paper?
+11. Write your name in binary using notepad?
 12. What is the IP address for this PC?
 13. Fuair tú an rún?
 14. What number is written in green here tinyurl.com/yymcpy6m?
