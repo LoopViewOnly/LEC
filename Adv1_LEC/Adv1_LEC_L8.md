@@ -6,7 +6,7 @@
 1. What is “Loop” in Dutch?
 2. Let AI recoomend for you 5 new comedy movies.
 3. What is the correct Loop site URL?
-4. What do we see here on Google Maps StreetView (http://tinyurl.com/dsfasgf)?
+4. What do we see here on Google Maps StreetView (https://tinyurl.com/dsfasgf)?
 5. What year was Loop established?
 6. What was C# named after?
 7. What does the “CS” in @LoopCS mean? 
