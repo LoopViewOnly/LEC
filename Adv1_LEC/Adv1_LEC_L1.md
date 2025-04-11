@@ -7,3 +7,4 @@
 2. What is the correct Loop site URL?
 3. What was in place of the Loop Campus Nazareth?(Use Google StreetView)
 4. What year was Loop established ?
+5. Create a funny image of your favorite Disney character using AI.
