@@ -6,4 +6,5 @@
 1. Who is Iron Man? Show us a photo
 2. When was the Eiffel Tower built? Show us a photo!
 3. Write your name backwards in Caesar’s Cipher!
-4. How many programming languages are there? 
+4. Make a McDonald’s website with new colors.
+5. How many programming languages are there? 
