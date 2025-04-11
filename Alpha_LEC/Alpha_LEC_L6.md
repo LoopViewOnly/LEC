@@ -8,3 +8,4 @@
 3. Make a birthday wish with AI for your Italian friend (in Italian).
 4. What is the time in Japan right now?
 5. Say “Hello Loopy” in Traditional Chinese!
+6. Ask AI to make a pizza website for you own pizza store.
