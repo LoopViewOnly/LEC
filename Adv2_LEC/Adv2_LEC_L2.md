@@ -7,4 +7,4 @@
 2. Show us the tallest tower in the world on Google Maps
 3. What is Loop in Italian
 4. Ask AI about the Date and Time now.
-5. Show us 
+5. Show us ...
