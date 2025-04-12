@@ -8,3 +8,4 @@
 3. Show us the tallest tower in the world on Google Maps
 4. What is Loop in Italian
 5. Let AI help you pack for your 10-Days trip to Tokyo
+6. How to write functions in C# ? let AI help you.
