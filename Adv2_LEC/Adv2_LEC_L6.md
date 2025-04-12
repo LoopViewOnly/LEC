@@ -1,4 +1,4 @@
-<img src='loop.png' width='10%'>
+<img src='../loop.png' width='10%'>
 
 ### LEC: Loop Escape Challenge
 ### Advanced-2 Lesson-6
