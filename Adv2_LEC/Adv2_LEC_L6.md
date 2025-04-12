@@ -3,8 +3,9 @@
 ### LEC: Loop Escape Challenge
 ### Advanced-2 Lesson-6
 ---
-1. Aaa
-2. Aaa
-3. Aaa
-4. Aaa
-5. Aaa
+1. Find Apple's IP address
+2. How do you write the capital of Russia in Russian?
+3. Learn to count from 1-10 in Roman numbers (I II ...)
+4. Show us how may the world look like in 2050
+5. What is the Nobel Prize ?
+
