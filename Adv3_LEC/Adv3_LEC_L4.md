@@ -4,7 +4,8 @@
 ### Advanced-3 Lesson-4
 ---
 1. What is the capital of South Africa ?
-2. Give me the names of 6 programming languages ?
-3. Who invented the world wide web ?(Show me his photo)
+2. Generate a video using AI of a penguin programming in Rome.
+3. Who invented the world wide web ?(Show us his photo)
 4. How tall is Burj Khalifa? in centimeters!!
-5. Write the word Loop an infinite amount of times(hint: maybe use a programming language ?)
+5. Show us your dream house, generate an image to show us.
+6. Write the word Loop an infinite amount of times(hint: maybe use a programming language ?)
